@@ -1,1 +1,14 @@
 /* your code */
+ td, th {
+            border: 1px solid white;
+            width: 500px;
+            text-align: left;
+        }
+table{
+	
+	border-collapse: collapse;
+	
+}
+th{
+	background-color: yellow;
+}
